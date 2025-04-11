@@ -1,0 +1,1 @@
+This AI-powered tool helps automate the inspection of food products, such as steaks, chicken, seafood, and produce, using image processing and Optical Character Recognition (OCR). The tool analyzes uploaded images, compares them to predefined product specifications, and provides a Pass, Fail, or Needs Review result based on visual inspection.
